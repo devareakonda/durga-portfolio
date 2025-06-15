@@ -78,7 +78,7 @@ function App() {
           <div className="hero-image">
             <div className="profile-card">
               <div className="profile-img">
-              
+                <img src="/prasad.jpg" alt=""/>
                 {/* <div className="img-placeholder">DP</div> */}
               </div>
             </div>
