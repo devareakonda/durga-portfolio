@@ -122,14 +122,17 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(135deg, #18255e 0%, #42196c 100%);
-  color: white;
+  /* background: linear-gradient(135deg, #001775 0%, #26004d 100%); */
+  background-color: #02385e;
+  
+  color: rgb(255, 255, 255);
   position: relative;
   overflow: hidden;
 }
 
 .hero::before {
-  content: '';
+  background: radial-gradient(circle at 30% 20%, #01497c,transparent 50% ),radial-gradient(circle at 70% 80%, #a9cedd,transparent 50%);
+  z-index: 1;
   position: absolute;
   top: 0;
   left: 0;
@@ -156,14 +159,15 @@ body {
 }
 
 .hero-title {
-  font-size: 3.5rem;
+  font-size: 4.5rem;
   margin-bottom: 1rem;
   line-height: 1.2;
   animation: fadeInUp 1s ease-out 0.2s both;
 }
 
 .highlight {
-  background: linear-gradient(45deg, #ffd700, #ffed4e);
+  /* background: linear-gradient(45deg, #ffd700, #ffed4e); */
+  background-color: #cae2eb;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -218,8 +222,8 @@ body {
 }
 
 .btn-primary {
-  background: linear-gradient(45deg, #ffd700, #ffed4e);
-  color: rgb(0, 0, 0);
+  background: rgb(161, 158, 158) ;
+  color: rgb(255, 255, 255);
   box-shadow: 0 4px 15px rgba(255, 107, 107, 0.3);
 }
 
@@ -249,18 +253,19 @@ body {
 .profile-card {
   width: 250px;
   height: 250px;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0);
   backdrop-filter: blur(10px);
-  border-radius: 20px;
+  border-radius: 50%;
   padding: 0rem;
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  /* border: 1px solid rgba(255, 255, 255, 0.2); */
   animation: float 6s ease-in-out infinite;
 }
 
 img {
-   width: 350px;
-  border-radius: 20px;
-  height: 350px;
+  box-shadow: 10px 10px 40px rgb(161, 158, 158);
+  width: 410px;
+  border-radius: 10px;
+  height: 470px;
   
 }
 .img-placeholder {
@@ -494,8 +499,12 @@ img {
 }
 
 .project-image {
+ 
   height: 200px;
-  background: linear-gradient(45deg, #667eea, #764ba2);
+  background-image: url("/public/Background img.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   position: relative;
   overflow: hidden;
 }
@@ -541,12 +550,12 @@ img {
 }
 
 .tech-tag {
-  background: #667eea;
+  background: #3c4d9a;
   color: white;
   padding: 0.3rem 0.8rem;
   border-radius: 15px;
   font-size: 0.8rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 /* Contact Section */

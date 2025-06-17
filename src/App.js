@@ -72,20 +72,16 @@ function App() {
             </p>
             <div className="hero-buttons">
               <button className="btn btn-primary" onClick={() => scrollToSection('projects')}>View My Work</button>
-              <button className="btn btn-secondary" onClick={() => scrollToSection('contact')}>Get In Touch</button>
+             <a href="/DEVARAKONDA DURGA PRASAD (1).pdf"> <button className="btn btn-secondary">Download Resume</button></a>
             </div>
           </div>
           <div className="hero-image">
             <div className="profile-card">
               <div className="profile-img">
-                <img src="/prasad.jpg" alt=""/>
-                {/* <div className="img-placeholder">DP</div> */}
+                <img src="/IMG_3005[1].PNG" alt=""/>
               </div>
             </div>
           </div>
-        </div>
-        <div className="scroll-indicator">
-          <div className="scroll-arrow"></div>
         </div>
       </section>
 

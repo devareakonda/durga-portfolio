@@ -7,13 +7,14 @@ function Projcets() {
       title: 'HTML Projects',
       description: 'HTML5 is the latest version of HTML that structures web content and supports modern features like multimedia, graphics, and improved APIs without needing plugins.',
       tech: ['HTML5', 'CSS3'],
-      link: 'https://devareakonda.github.io/Yetflix/'
+      link: 'https://devareakonda.github.io/Yetflix/',
+      path:'https://img.freepik.com/free-photo/programming-background-collage_23-2149901777.jpg?uid=R138894910&ga=GA1.1.1020290531.1740015977&semt=ais_hybrid&w=740',
     },
     {
       title: 'CSS Projects',
       description: 'CSS is a stylesheet language used to control the layout, design, and appearance of HTML elements on a web page.',
       tech: ['HTML5','CSS3'],
-      link: '',
+      link: 'https://chat-boo.netlify.app/',
     //   id :'restaurant-website',
     },
     {
@@ -45,13 +46,13 @@ function Projcets() {
        title: 'Adobe illustrator',
       description: 'WordPress is a popular open-source content management system (CMS) that allows users to create and manage websites easily without needing advanced coding skills.',
       tech: ['Adobeillustrator'],
-      link: '',
+      link: 'https://drive.google.com/drive/folders/1QXCdFzMVjpJAEHsD8zpUl4AZS_sCelPn?usp=sharing',
     },
     {
        title: 'PhotoShop',
       description: 'WordPress is a popular open-source content management system (CMS) that allows users to create and manage websites easily without needing advanced coding skills.',
       tech: ['PhotoShop'],
-      link: '',
+      link: 'https://drive.google.com/drive/folders/1YTyxdpGtJsEarR9KG2LKk2f9kYY2ke_4?usp=drive_link',
     },
     {
        title: 'Figma',
@@ -68,7 +69,8 @@ function Projcets() {
             {projects.map((project, index) => (
               <div key={index} className="project-card">
                 <div className="project-image">
-                  <div className="project-overlay">
+                <div className="project-overlay">
+                  
                     {project.link ? (
                       project.link.startsWith('http') ? (
                         <NavLink
@@ -93,6 +95,7 @@ function Projcets() {
                       </button>
                     )}
                   </div>
+                  
                 </div>
                 <div className="project-content">
                   <h3>{project.title}</h3>
@@ -113,3 +116,6 @@ function Projcets() {
 }
 
 export default Projcets
+
+
+
