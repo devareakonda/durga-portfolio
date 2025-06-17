@@ -159,7 +159,7 @@ body {
 }
 
 .hero-title {
-  font-size: 4.5rem;
+  font-size: 3.5rem;
   margin-bottom: 1rem;
   line-height: 1.2;
   animation: fadeInUp 1s ease-out 0.2s both;
@@ -222,14 +222,14 @@ body {
 }
 
 .btn-primary {
-  background: rgb(161, 158, 158) ;
-  color: rgb(255, 255, 255);
-  box-shadow: 0 4px 15px rgba(255, 107, 107, 0.3);
+  background: rgb(230, 222, 222) ;
+  color: rgb(0, 0, 0);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
 }
 
 .btn-primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(255, 107, 107, 0.4);
+  box-shadow: 0 6px 20px rgba(107, 53, 255, 0.616);
 }
 
 .btn-secondary {
@@ -258,14 +258,14 @@ body {
   border-radius: 50%;
   padding: 0rem;
   /* border: 1px solid rgba(255, 255, 255, 0.2); */
-  animation: float 6s ease-in-out infinite;
+  animation: float 5s ease-in-out infinite;
 }
 
 img {
   box-shadow: 10px 10px 40px rgb(161, 158, 158);
-  width: 410px;
+  width: 350px;
   border-radius: 10px;
-  height: 470px;
+  height: 400px;
   
 }
 .img-placeholder {
@@ -578,7 +578,7 @@ img {
 
 .contact-info p {
   font-size: 1.1rem;
-  color: #666;
+  color: #a59d9d;
   margin-bottom: 2rem;
   line-height: 1.8;
 }

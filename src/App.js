@@ -112,7 +112,7 @@ function App() {
             </div>
             <div className="about-stats">
               <div className="stat-item">
-                <h3>7</h3>
+                <h3>9</h3>
                 <p>Projects Completed</p>
               </div>
               <div className="stat-item">
