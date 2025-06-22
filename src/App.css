@@ -71,7 +71,7 @@ body {
 .nav-menu a {
   text-decoration: none;
   color: #333;
-  font-weight: 500;
+  font-weight: 800;
   position: relative;
   transition: all 0.3s ease;
   padding: 0.5rem 1rem;
@@ -123,7 +123,7 @@ body {
   align-items: center;
   justify-content: center;
   /* background: linear-gradient(135deg, #001775 0%, #26004d 100%); */
-  background-color: #02385e;
+  background-color: #000000dd;
   
   color: rgb(255, 255, 255);
   position: relative;
@@ -263,7 +263,7 @@ body {
 
 img {
   box-shadow: 10px 10px 40px rgb(161, 158, 158);
-  width: 350px;
+  width: 300px;
   border-radius: 10px;
   height: 400px;
   

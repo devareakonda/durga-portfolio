@@ -14,8 +14,7 @@ function Projcets() {
       title: 'CSS Projects',
       description: 'CSS is a stylesheet language used to control the layout, design, and appearance of HTML elements on a web page.',
       tech: ['HTML5','CSS3'],
-      link: 'https://chat-boo.netlify.app/',
-    //   id :'restaurant-website',
+      link: 'https://devareakonda.github.io/prasad-gallery/',
     },
     {
       title: 'Java Script',
@@ -40,13 +39,13 @@ function Projcets() {
        title: 'WordPress',
       description: 'WordPress is a popular open-source content management system (CMS) that allows users to create and manage websites easily without needing advanced coding skills.',
       tech: ['WordPress'],
-      link: 'https://dev-samasreya-charity.pantheonsite.io/',
+      link: 'https://dev-prasad-gym.pantheonsite.io/',
     },
     {
        title: 'Adobe illustrator',
       description: 'WordPress is a popular open-source content management system (CMS) that allows users to create and manage websites easily without needing advanced coding skills.',
       tech: ['Adobeillustrator'],
-      link:'https://drive.google.com/drive/folders/1QXCdFzMVjpJAEHsD8zpUl4AZS_sCelPn?usp=drive_link',
+      link:'https://devareakonda.github.io/illustrator/',
 
     },
     {
