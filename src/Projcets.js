@@ -7,7 +7,7 @@ function Projcets() {
       title: 'HTML Projects',
       description: 'HTML5 is the latest version of HTML that structures web content and supports modern features like multimedia, graphics, and improved APIs without needing plugins.',
       tech: ['HTML5', 'CSS3'],
-      link: 'https://devareakonda.github.io/Yetflix/',
+      // link: 'https://devareakonda.github.io/Yetflix/',
       path:'https://img.freepik.com/free-photo/programming-background-collage_23-2149901777.jpg?uid=R138894910&ga=GA1.1.1020290531.1740015977&semt=ais_hybrid&w=740',
     },
     {
