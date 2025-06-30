@@ -42,7 +42,7 @@ function Projcets() {
       link: 'https://dev-prasad-gym.pantheonsite.io/',
     },
     {
-       title: 'Adobe illustrator',
+       title: 'Adobe Illustrator',
       description: 'WordPress is a popular open-source content management system (CMS) that allows users to create and manage websites easily without needing advanced coding skills.',
       tech: ['Adobeillustrator'],
       link:'https://devareakonda.github.io/illustrator/',
