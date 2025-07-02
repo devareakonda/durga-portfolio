@@ -58,7 +58,7 @@ function Projcets() {
        title: 'Figma',
       description: 'WordPress is a popular open-source content management system (CMS) that allows users to create and manage websites easily without needing advanced coding skills.',
       tech: ['Figma'],
-       link:'https://devareakonda.github.io/Figma/',
+       link:'https://figma995.netlify.app/',
     }
   ];
   return (
