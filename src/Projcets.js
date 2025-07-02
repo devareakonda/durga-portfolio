@@ -14,7 +14,7 @@ function Projcets() {
       title: 'CSS Projects',
       description: 'CSS is a stylesheet language used to control the layout, design, and appearance of HTML elements on a web page.',
       tech: ['HTML5','CSS3'],
-      link: 'https://devareakonda.github.io/Photo-Gallary/',
+      link: 'https://photogallary995.netlify.app/',
     },
     {
       title: 'Java Script',
