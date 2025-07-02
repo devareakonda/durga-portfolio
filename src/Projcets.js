@@ -52,7 +52,7 @@ function Projcets() {
        title: 'PhotoShop',
       description: 'WordPress is a popular open-source content management system (CMS) that allows users to create and manage websites easily without needing advanced coding skills.',
       tech: ['PhotoShop'],
-      link: 'https://devareakonda.github.io/photoshop/',
+      link: 'https://photoshop995.netlify.app/',
     },
     {
        title: 'Figma',
