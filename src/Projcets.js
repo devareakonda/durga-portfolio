@@ -45,7 +45,7 @@ function Projcets() {
        title: 'Adobe Illustrator',
       description: 'WordPress is a popular open-source content management system (CMS) that allows users to create and manage websites easily without needing advanced coding skills.',
       tech: ['Adobeillustrator'],
-      link:'https://devareakonda.github.io/illustrator/',
+      link:'https://illustrator995.netlify.app/',
 
     },
     {
