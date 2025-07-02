@@ -27,7 +27,7 @@ function Projcets() {
        title: 'Boostrap',
       description: 'Bootstrap is a popular front-end framework that helps developers build responsive and mobile-first websites quickly using pre-designed HTML, CSS, and JavaScript components.',
       tech: ['HTML5', 'CSS3', 'Bootstrap'],
-      link: 'https://devareakonda.github.io/Bootstrap/',
+      link: 'https://bootstrap995.netlify.app/',
 
     }, 
     {
