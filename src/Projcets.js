@@ -20,7 +20,7 @@ function Projcets() {
       title: 'Java Script',
       description: ' JavaScript ES6 is a modern version of JavaScript that introduces new features like let/const, arrow functions, classes, and promises for more efficient and cleaner coding.',
       tech: ['HTML5', 'CSS3', 'Bootstrap', 'JavaScript'],
-      link: 'https://devareakonda.github.io/Calculator/',
+      link: 'https://calculater995.netlify.app/',
      
     },
     {
