@@ -14,7 +14,7 @@ function Projcets() {
       title: 'CSS Projects',
       description: 'CSS is a stylesheet language used to control the layout, design, and appearance of HTML elements on a web page.',
       tech: ['HTML5','CSS3'],
-      link: 'https://devareakonda.github.io/prasad-gallery/',
+      link: 'https://devareakonda.github.io/Photo-Gallary/',
     },
     {
       title: 'Java Script',
@@ -27,7 +27,7 @@ function Projcets() {
        title: 'Boostrap',
       description: 'Bootstrap is a popular front-end framework that helps developers build responsive and mobile-first websites quickly using pre-designed HTML, CSS, and JavaScript components.',
       tech: ['HTML5', 'CSS3', 'Bootstrap'],
-      link: 'https://devareakonda.github.io/Bootstrap-project/',
+      link: 'https://devareakonda.github.io/Bootstrap/',
 
     }, 
     {
