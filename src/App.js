@@ -72,7 +72,7 @@ function App() {
             </p>
             <div className="hero-buttons">
               <button className="btn btn-primary" onClick={() => scrollToSection('projects')}>View My Work</button>
-             <a href="public/Durga Prasad.pdf" download="Durga_Prasad_Resume.pdf"> <button className="btn btn-secondary">Download Resume</button></a>
+             <a href="Durga Prasad.pdf" download="Durga_Prasad_Resume.pdf"> <button className="btn btn-secondary">Download Resume</button></a>
             </div>
           </div>
           <div className="hero-image">
