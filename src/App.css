@@ -20,8 +20,6 @@ body {
   margin: 0 auto;
   padding: 0 20px;
 }
-@media screen and (min-width: 480px) and (max-width: 786px);
-
 /* Navigation */
 .navbar {
   margin-top: 20px;
