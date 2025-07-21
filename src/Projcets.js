@@ -13,59 +13,59 @@ function Projcets() {
       title: 'CSS Projects',
       description: 'CSS is a stylesheet language used to control the layout, design, and appearance of HTML elements on a web page.',
       tech: ['HTML5','CSS3'],
-      link1:"https://ipmovies995.netlify.app/",
-      link2:"file:///C:/SAMASREYA%20FOUNDATION/Samasreya%20Foundation.html"
+      link1:"https://photogallary995.netlify.app/",
+      link2:""
     },
     {
       title: 'Java Script',
       description: ' JavaScript ES6 is a modern version of JavaScript that introduces new features like let/const, arrow functions, classes, and promises for more efficient and cleaner coding.',
       tech: ['HTML5', 'CSS3', 'Bootstrap', 'JavaScript'],
-      link1:"https://ipmovies995.netlify.app/",
-      link2:"file:///C:/SAMASREYA%20FOUNDATION/Samasreya%20Foundation.html"
+      link1:"https://calculater995.netlify.app/",
+      link2:""
      
     },
     {
        title: 'Boostrap',
       description: 'Bootstrap is a popular front-end framework that helps developers build responsive and mobile-first websites quickly using pre-designed HTML, CSS, and JavaScript components.',
       tech: ['HTML5', 'CSS3', 'Bootstrap'],
-      link1:"https://ipmovies995.netlify.app/",
-      link2:"file:///C:/SAMASREYA%20FOUNDATION/Samasreya%20Foundation.html"
+      link1:"https://bootstrap995.netlify.app/",
+      link2:""
     }, 
     {
        title: 'React JS',
       description: 'React.js is a JavaScript library developed by Meta for building fast and interactive user interfaces using a component-based architecture.',
       tech: ['HTML5', 'CSS3', 'Bootstrap', 'JavaScript'],
       link1:"https://ipmovies995.netlify.app/",
-      link2:"file:///C:/SAMASREYA%20FOUNDATION/Samasreya%20Foundation.html"
+      link2:""
     }, 
     {
        title: 'WordPress',
       description: 'WordPress is a popular open-source content management system (CMS) that allows users to create and manage websites easily without needing advanced coding skills.',
       tech: ['WordPress'],
-      link1:"https://ipmovies995.netlify.app/",
-      link2:"file:///C:/SAMASREYA%20FOUNDATION/Samasreya%20Foundation.html"
+      link1:"https://dev-prasad-gym.pantheonsite.io/",
+      link2:"https://dev-samasreya-charity.pantheonsite.io/"
     },
     {
        title: 'Adobe illustrator',
       description: 'WordPress is a popular open-source content management system (CMS) that allows users to create and manage websites easily without needing advanced coding skills.',
       tech: ['Adobeillustrator'],
-      link1:"https://ipmovies995.netlify.app/",
-      link2:"file:///C:/SAMASREYA%20FOUNDATION/Samasreya%20Foundation.html"
+      link1:"https://adobeillustrator9951.netlify.app/",
+      link2:"https://adobeillustrator9951.netlify.app/"
 
     },
     {
        title: 'PhotoShop',
       description: 'WordPress is a popular open-source content management system (CMS) that allows users to create and manage websites easily without needing advanced coding skills.',
       tech: ['PhotoShop'],
-      link1:"https://ipmovies995.netlify.app/",
-      link2:"file:///C:/SAMASREYA%20FOUNDATION/Samasreya%20Foundation.html"
+      link1:"https://photoshop995.netlify.app/",
+      link2:"https://photoshop995.netlify.app/"
     },
     {
        title: 'Fig ma',
       description: 'WordPress is a popular open-source content management system (CMS) that allows users to create and manage websites easily without needing advanced coding skills.',
       tech: ['Figma'],
-     link1:"https://ipmovies995.netlify.app/",
-      link2:"file:///C:/SAMASREYA%20FOUNDATION/Samasreya%20Foundation.html"
+     link1:"https://figma995.netlify.app/",
+      link2:"https://figma995.netlify.app/"
     }
   ];
   return (
