@@ -14,14 +14,12 @@ function Projcets() {
       description: 'CSS is a stylesheet language used to control the layout, design, and appearance of HTML elements on a web page.',
       tech: ['HTML5','CSS3'],
       link1:"https://photogallary995.netlify.app/",
-      link2:""
     },
     {
       title: 'Java Script',
       description: ' JavaScript ES6 is a modern version of JavaScript that introduces new features like let/const, arrow functions, classes, and promises for more efficient and cleaner coding.',
       tech: ['HTML5', 'CSS3', 'Bootstrap', 'JavaScript'],
       link1:"https://calculater995.netlify.app/",
-      link2:""
      
     },
     {
@@ -29,14 +27,12 @@ function Projcets() {
       description: 'Bootstrap is a popular front-end framework that helps developers build responsive and mobile-first websites quickly using pre-designed HTML, CSS, and JavaScript components.',
       tech: ['HTML5', 'CSS3', 'Bootstrap'],
       link1:"https://bootstrap995.netlify.app/",
-      link2:""
     }, 
     {
        title: 'React JS',
       description: 'React.js is a JavaScript library developed by Meta for building fast and interactive user interfaces using a component-based architecture.',
       tech: ['HTML5', 'CSS3', 'Bootstrap', 'JavaScript'],
       link1:"https://ipmovies995.netlify.app/",
-      link2:""
     }, 
     {
        title: 'WordPress',
