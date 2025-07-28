@@ -30,6 +30,7 @@ function App() {
     { name: 'jQuery', level: 80 },
     { name: 'JavaScript', level: 85 },
     { name: 'React.js', level: 75 },
+    { name: 'React.js', level: 80 },
     { name: 'UI/UX Design', level: 90 }
   ];
 

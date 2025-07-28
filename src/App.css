@@ -31,6 +31,14 @@ body {
   width: 97%;
   background: rgb(255, 255, 255);
   /* backdrop-filter: blur(10px); */
+  margin-left:48px;
+  margin-right: 20px;
+  border-radius: 40px;
+  position: fixed;
+  top: 0;
+  width: 95%;
+  background: rgb(255, 252, 252);
+  backdrop-filter: blur(10px);
   z-index: 1000;
   transition: all 0.3s ease;
   box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
@@ -80,7 +88,10 @@ body {
 .nav-menu a:hover,
 .nav-menu a.active {
   color: #667eea;
+
   background: rgba(102, 126, 234, 0);
+
+  background: rgba(102, 126, 234, 0.1);
 }
 
 .nav-menu a::after {
@@ -499,8 +510,12 @@ img {
 
 .project-image {
  
+
   /* heig ht: 200px; */
   /* background-image: url("/public/Background img.png"); */
+
+  height: 200px;
+  background-image: url("/public/Background img.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
