@@ -40,8 +40,8 @@ function Projcets() {
       title: 'React JS',
       description: 'React.js is a JavaScript library developed by Meta for building fast and interactive user interfaces using a component-based architecture.',
       tech: ['HTML5', 'CSS3', 'Bootstrap', 'JavaScript'],
-      link1: "https://ipmovies995.netlify.app/",
-      link2: "https://ipmovies995.netlify.app/"
+      link1: "https://classy-syrniki-73667a.netlify.app/",
+      link2: "https://tiny-starburst-2e02c2.netlify.app/"
     },
     {
       path: "https://kinsta.com/wp-content/uploads/2018/02/what-is-wordpress.png",
