@@ -9,7 +9,7 @@ function Projcets() {
       description: 'HTML5 is the latest version of HTML that structures web content and supports modern features like multimedia, graphics, and improved APIs without needing plugins.',
       tech: ['HTML5', 'CSS3'],
       link1: "https://ipmovies995.netlify.app/",
-      link2: "file:///C:/SAMASREYA%20FOUNDATION/Samasreya%20Foundation.html"
+      link2: "https://sage-vacherin-a2e43a.netlify.app/"
     },
     {
       path: "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/03/illustration-of-a-laptop-with-the-css-logo-a-grid-in-the-behind-and-some-icons-around-it.png",
